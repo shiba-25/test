@@ -9,7 +9,7 @@ int main() {
     {
         read1 = button0.read();
         if (read1 == 0) {
-            printf("Hello\n");//変更しました
+            printf("Hello\n");//変更しましたを変更しました
         }
     }  
 }
